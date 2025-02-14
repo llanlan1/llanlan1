@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Lan @llanlan1, a new entrant to Cloud Computing & DevOps
-- 👀 I’m interested in Cloud Infrastructure and DevOp Practices, AI, Tech Development, Design and Economics
+- 👋 Hi, I’m Lan @llanlan1, a budding Cloud Computing & DevOps Practitioner
+- 👀 I’m interested in Cloud Infrastructure and DevOp Practices, AI, Tech Development and Design
 - 🌱 I want to learn more about networking, IaC, containers and others
 - 💞️ Connect for Collab! I'm new to the scene but have an aptitude for designing frontend and learning the backend
 - 🪼 Fun fact: I keep three jellyfishes as pets! I'm also an award-winning painter and art trainer
